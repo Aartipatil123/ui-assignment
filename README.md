@@ -26,16 +26,6 @@ The project is designed based on a given UI/figma design with modern layout and 
 
 ---
 
-## Folder Structure
-src/
- ├── components
- ├── assets
- ├── App.jsx
- ├── main.jsx
- ├── index.css
-
----
-
 ## How to Run Project Locally
 
 ```bash
