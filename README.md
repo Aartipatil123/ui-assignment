@@ -1,16 +1,43 @@
-# React + Vite
+# Landing Page UI - Assignment
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Project Overview
+This is a responsive Landing Page UI built using React and Vite.  
+The project is designed based on a given UI/figma design with modern layout and components.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## Tech Stack
+- React.js
+- Vite
+- HTML5
+- CSS3
+- JavaScript (ES6)
+- Tailwind CSS (if used)
 
-## React Compiler
+---
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## Features
+- Fully responsive design (Mobile, Tablet, Desktop)
+- Reusable components
+- Modern UI layout
+- Navbar with logo integration
+- Blog, FAQ, Testimonials sections
+- Clean and structured code
 
-## Expanding the ESLint configuration
+---
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## Folder Structure
+src/
+ ├── components
+ ├── assets
+ ├── App.jsx
+ ├── main.jsx
+ ├── index.css
+
+---
+
+## How to Run Project Locally
+
+```bash
+npm install
+npm run dev
