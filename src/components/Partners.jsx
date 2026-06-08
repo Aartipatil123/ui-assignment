@@ -1,5 +1,5 @@
 import google from "../assets/partners/google.jpg";
-import microsoft from "../assets/partners/microsoft.png";
+import microsoft from "../assets/partners/Microsoft.png";
 import amazon from "../assets/partners/amazon.png";
 import meta from "../assets/partners/meta.jpg";
 import netflix from "../assets/partners/netflix.png";
